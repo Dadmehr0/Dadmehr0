@@ -27,30 +27,24 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Haany Ali'
+ 	user = 'Dadmehr'
 		current_work = 'Writing code'
 		hobbies = [
 				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
+				'Chess',
+				'Reading SEC book'
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
 	def getCity():
-		return Hyderabad_India()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
+		return Azarbijan_Iran()
 	
  ```
  
 ## Current Works
- * Started learning MERN Stack !!
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * Getting Started with NodeJS and the MERN Stack!!
+ * Forward to full stack
+ * Learning hacking and security ***bug finder***, ***exploit*** writer and ***encryption***
+ * Getting Started with Python,ruby and the Full Stack!!
  
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
