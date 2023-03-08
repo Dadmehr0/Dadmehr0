@@ -5,7 +5,7 @@
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dadmehr0" alt="Dadmehr0" /> </p>
 
 <div style="text-align: right">By hiding the bug, the bug is fixed </div>
 
