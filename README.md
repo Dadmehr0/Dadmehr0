@@ -46,7 +46,4 @@
  * Learning hacking and security ***bug finder***, ***exploit*** writer and ***encryption***
  * Getting Started with Python,ruby and the Full Stack!!
  
-
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
- 
- 
+This README trowel MarikIshtar007
