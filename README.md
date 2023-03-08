@@ -2,8 +2,6 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dadmehr0" alt="Dadmehr0" /> </p>
 
