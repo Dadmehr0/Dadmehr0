@@ -1,4 +1,4 @@
-## Hey, [Haany here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
@@ -45,5 +45,7 @@
  * Forward to full stack
  * Learning hacking and security ***bug finder***, ***exploit*** writer and ***encryption***
  * Getting Started with Python,ruby and the Full Stack!!
- 
+
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=Dadmehr0&show_icons=true&hide=[%22issues%22])
+  
 This README trowel MarikIshtar007
