@@ -1,14 +1,10 @@
-## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
-
-<h1>Welcome to my humble abode in the Digital World..</h1> 
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dadmehr0" alt="Dadmehr0" /> </p>
 
 <div style="text-align: right">By hiding the bug, the bug is fixed </div>
 
 ## :computer: Technologies I Love
-* Flask
+* Flask	
 * Python
 * Security
 * Backend Development
