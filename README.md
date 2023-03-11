@@ -1,7 +1,8 @@
 
 <div style="text-align: right"><img src="https://github.githubassets.com/images/icons/emoji/shipit.png" /> By hiding the bug, the bug is fixed</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dadmehr0" alt="Dadmehr0" /> </p>
 
-## :computer: Technologies I Love<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dadmehr0" alt="Dadmehr0" /> </p>
+## :computer: Technologies I Love<p align="left"> </p>
 * Flask	
 * Python
 * Security
