@@ -1,8 +1,7 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dadmehr0" alt="Dadmehr0" /> </p>
-<div style="text-align: right">By hiding the bug, the bug is fixed <img src="https://github.githubassets.com/images/icons/emoji/shipit.png" /> </div>
+<div style="text-align: right"><img src="https://github.githubassets.com/images/icons/emoji/shipit.png" /> By hiding the bug, the bug is fixed</div>
 
-## :computer: Technologies I Love
+## :computer: Technologies I Love<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dadmehr0" alt="Dadmehr0" /> </p>
 * Flask	
 * Python
 * Security
