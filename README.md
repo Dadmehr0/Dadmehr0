@@ -1,7 +1,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dadmehr0" alt="Dadmehr0" /> </p>
-<img src="https://github.githubassets.com/images/icons/emoji/shipit.png" />
-<div style="text-align: right">By hiding the bug, the bug is fixed </div>
+<div style="text-align: right">By hiding the bug, the bug is fixed <img src="https://github.githubassets.com/images/icons/emoji/shipit.png" /> </div>
 
 ## :computer: Technologies I Love
 * Flask	
